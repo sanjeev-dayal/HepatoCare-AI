@@ -1,0 +1,32 @@
+Feature,Rank,Selected
+Sym_Fatigue,1,True
+Comorb_Diabetes,1,True
+Sym_Ascites,1,True
+Sym_Jaundice,1,True
+Sym_Dark_Urine,1,True
+Bilirubin,1,True
+AST,1,True
+ALT,1,True
+Albumin,1,True
+Platelets,1,True
+BMI,2,False
+Sym_Itching,3,False
+Sleep_Hours,4,False
+Age,5,False
+Alk_Phosphatase,6,False
+Sym_Abdominal_Pain,7,False
+Sym_Weight_Loss,8,False
+Physical_Activity,9,False
+Alcohol_Consumption,10,False
+Diet_Quality,11,False
+Comorb_Genetic_History,12,False
+Smoking_Status,13,False
+Gender_Male,14,False
+Comorb_Hypertension,15,False
+Occupation_Student,16,False
+Occupation_Healthcare Worker,17,False
+Occupation_Farmer,18,False
+Occupation_Housewife,19,False
+Occupation_Laborer,20,False
+Occupation_Office Worker,21,False
+Occupation_Retired,22,False
