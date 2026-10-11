@@ -1,0 +1,7 @@
+,Normal,Fatty Liver,Alcoholic Liver Disease,Cirrhosis,Hepatitis B,Hepatitis C
+Normal,2381,166,0,0,0,3
+Fatty Liver,381,3117,118,8,1,47
+Alcoholic Liver Disease,5,62,1095,53,34,77
+Cirrhosis,2,4,54,1077,41,46
+Hepatitis B,1,2,51,13,456,293
+Hepatitis C,1,15,96,7,68,425

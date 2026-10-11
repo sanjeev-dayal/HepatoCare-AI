@@ -1,0 +1,28 @@
+{
+    "model": "RandomForestClassifier",
+    "train_rows": 47600,
+    "validation_rows": 10200,
+    "test_rows": 10200,
+    "selected_features": [
+        "Sym_Fatigue",
+        "Sym_Jaundice",
+        "Sym_Ascites",
+        "Sym_Dark_Urine",
+        "Comorb_Diabetes",
+        "ALT",
+        "AST",
+        "Bilirubin",
+        "Albumin",
+        "Platelets"
+    ],
+    "validation": {
+        "accuracy": 0.8505882352941176,
+        "balanced_accuracy": 0.7869190268700073,
+        "macro_f1": 0.7882053641240669
+    },
+    "test": {
+        "accuracy": 0.8493137254901961,
+        "balanced_accuracy": 0.7808819339701693,
+        "macro_f1": 0.7817316042364513
+    }
+}

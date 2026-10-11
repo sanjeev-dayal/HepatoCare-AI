@@ -1,0 +1,50 @@
+Feature,Rank,Selected
+Sym_Fatigue,1,True
+Sym_Jaundice,1,True
+Sym_Ascites,1,True
+Bilirubin,1,True
+ALT,1,True
+AST,1,True
+Comorb_Diabetes,1,True
+Sym_Dark_Urine,1,True
+Platelets,1,True
+Albumin,1,True
+BMI,2,False
+Sleep_Hours,3,False
+Age,4,False
+Sym_Itching,5,False
+Alk_Phosphatase,6,False
+Sym_Abdominal_Pain,7,False
+Sym_Weight_Loss,8,False
+Comorb_Genetic_History,9,False
+Alcohol_Consumption_Unknown,10,False
+Diet_Quality_Average,11,False
+Comorb_Hypertension,12,False
+Physical_Activity_Low,13,False
+Physical_Activity_Sedentary,14,False
+Smoking_Status_Never,15,False
+Gender_Male,16,False
+Gender_Female,16,False
+Alcohol_Consumption_Low,18,False
+Diet_Quality_Healthy,19,False
+Obesity_Class_Overweight,20,False
+Physical_Activity_Moderate,21,False
+Obesity_Class_Normal,22,False
+Smoking_Status_Current,23,False
+Diet_Quality_Poor,24,False
+Smoking_Status_Former,25,False
+Alcohol_Consumption_Moderate,26,False
+Occupation_Healthcare Worker,27,False
+Occupation_Student,28,False
+Occupation_Farmer,29,False
+Occupation_Office Worker,30,False
+Occupation_Housewife,31,False
+Occupation_Business,32,False
+Occupation_Laborer,33,False
+Occupation_Retired,34,False
+Obesity_Class_Obesity I,35,False
+Alcohol_Consumption_High,36,False
+Physical_Activity_High,37,False
+Obesity_Class_Underweight,38,False
+Obesity_Class_Obesity II,39,False
+Obesity_Class_Obesity III,40,False

@@ -1,17 +1,27 @@
+# Environments
 venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-.ipynb_checkpoints/
-
-*.log
-
+.venv/
+env/
 .env
 
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+pycache/
+.ipynb_checkpoints/
+
+# Node Dependencies
+node_modules/
+frontend/node_modules/
+
+# IDE & OS
 .idea/
 .vscode/
-
 .DS_Store
-node_modules/
+*.log
+
+# Large Machine Learning Model Artifacts (> 100MB)
+*.joblib
+results/*.joblib
+results/random_forest_baseline.joblib
